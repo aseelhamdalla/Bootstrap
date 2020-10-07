@@ -1,0 +1,22 @@
+.mt-0 {
+    margin-top: 0 !important;
+  }
+
+
+#MainSction{
+    background-image: url('../img/big_image_2.jpg');
+}
+.col-md-10{
+    margin-top: 200px;
+color: white;
+}
+
+.text-left { max-width: 300px;
+
+}
+.display-3{
+    color:blue
+}
+.mt-0 {
+    margin-top: 0 !important;
+  }
